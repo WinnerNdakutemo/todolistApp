@@ -1,3 +1,4 @@
 # todolistApp
-A todo list for my javascript journey\n
-The entire project was made before I learn git & github reason why there's only two commits.
+
+A todo list for my javascript journey.<br>
+The entire project was made before I learn git & github reason why there's no major commits.<br>
